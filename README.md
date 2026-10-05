@@ -891,7 +891,6 @@ LIMIT 3;
 
 
 
-#### Explore all 100 answers here 👉 [Devinterview.io - SQL](https://devinterview.io/questions/web-and-mobile-development/sql-interview-questions)
 
 <br>
 
